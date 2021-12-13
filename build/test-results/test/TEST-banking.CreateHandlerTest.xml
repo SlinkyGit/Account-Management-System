@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CreateHandlerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:24" hostname="Nikhils-MBP.home" time="0.01">
+  <properties/>
+  <testcase name="valid_create_APR()" classname="banking.CreateHandlerTest" time="0.001"/>
+  <testcase name="valid_create_ID()" classname="banking.CreateHandlerTest" time="0.001"/>
+  <testcase name="valid_create_cd()" classname="banking.CreateHandlerTest" time="0.0"/>
+  <testcase name="valid_create_checking()" classname="banking.CreateHandlerTest" time="0.001"/>
+  <testcase name="invalid_create_with_same_ID()" classname="banking.CreateHandlerTest" time="0.001"/>
+  <testcase name="valid_create_savings()" classname="banking.CreateHandlerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

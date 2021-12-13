@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.BankTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:24" hostname="Nikhils-MBP.home" time="0.026">
+  <properties/>
+  <testcase name="withdraw_everything_from_savings_account()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="deposit_into_account()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="bank_has_no_accounts_initially()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="withdraw_everything_from_checking_account()" classname="banking.BankTest" time="0.003"/>
+  <testcase name="add_account_to_bank()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="withdraw_half_from_checking_account()" classname="banking.BankTest" time="0.003"/>
+  <testcase name="add_two_accounts_to_bank()" classname="banking.BankTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

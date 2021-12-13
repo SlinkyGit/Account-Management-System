@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.WithdrawHandlerTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:23" hostname="Nikhils-MBP.home" time="0.064">
+  <properties/>
+  <testcase name="withdraw_more_than_balance_from_checking()" classname="banking.WithdrawHandlerTest" time="0.039"/>
+  <testcase name="valid_withdraw_more_than_balance()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <testcase name="valid_withdraw_from_savings()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <testcase name="withdraw_more_than_balance_from_savings()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <testcase name="valid_withdraw()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <testcase name="valid_withdraw_from_checking()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <testcase name="withdraw_zero_from_savings()" classname="banking.WithdrawHandlerTest" time="0.0"/>
+  <testcase name="valid_withdraw_from_cd_account()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <testcase name="return_transaction_history_for_savings()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <testcase name="valid_withdraw_from_zero()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <testcase name="return_transaction_history_for_checking()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <testcase name="withdraw_zero_from_checking()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <testcase name="return_transaction_history_for_CD()" classname="banking.WithdrawHandlerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

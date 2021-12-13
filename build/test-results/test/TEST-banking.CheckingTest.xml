@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CheckingTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:24" hostname="Nikhils-MBP.home" time="0.006">
+  <properties/>
+  <testcase name="initial_balance_of_zero()" classname="banking.CheckingTest" time="0.001"/>
+  <testcase name="account_has_apr()" classname="banking.CheckingTest" time="0.001"/>
+  <testcase name="account_is_checking()" classname="banking.CheckingTest" time="0.0"/>
+  <testcase name="value_greater_than_balance_for_withdraw()" classname="banking.CheckingTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

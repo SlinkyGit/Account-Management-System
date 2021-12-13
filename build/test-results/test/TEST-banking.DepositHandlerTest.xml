@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.DepositHandlerTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:24" hostname="Nikhils-MBP.home" time="0.021">
+  <properties/>
+  <testcase name="deposit_nothing_into_account()" classname="banking.DepositHandlerTest" time="0.0"/>
+  <testcase name="invalid_deposit_into_CD()" classname="banking.DepositHandlerTest" time="0.001"/>
+  <testcase name="invalid_deposit()" classname="banking.DepositHandlerTest" time="0.001"/>
+  <testcase name="valid_deposit_account()" classname="banking.DepositHandlerTest" time="0.001"/>
+  <testcase name="deposit_min_into_checking()" classname="banking.DepositHandlerTest" time="0.001"/>
+  <testcase name="valid_deposit_again()" classname="banking.DepositHandlerTest" time="0.001"/>
+  <testcase name="deposit_min_into_savings()" classname="banking.DepositHandlerTest" time="0.002"/>
+  <testcase name="deposit_max_into_savings()" classname="banking.DepositHandlerTest" time="0.001"/>
+  <testcase name="valid_deposit_in_checking()" classname="banking.DepositHandlerTest" time="0.001"/>
+  <testcase name="valid_deposit_in_savings()" classname="banking.DepositHandlerTest" time="0.0"/>
+  <testcase name="deposit_max_into_checking()" classname="banking.DepositHandlerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

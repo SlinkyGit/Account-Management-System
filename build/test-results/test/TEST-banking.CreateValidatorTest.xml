@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CreateValidatorTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:24" hostname="Nikhils-MBP.home" time="0.033">
+  <properties/>
+  <testcase name="invalid_create_ID_is_not_number()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="is_valid_create()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="missing_initial_amount_for_cd()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="too_high_APR()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="is_empty_command()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="APR_within_range()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="missing_command_checking()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="invalid_ID_length()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="invalid_create_amount_too_high()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="misspelling_in_account_type()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="invalid_create_amount_too_low()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="typo_in_command()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="missing_command_CD()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="duplicate_id()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="missing_command_savings()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="command_not_create()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="missing_account_type()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="too_low_APR()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="missing_APR()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="test_case_insensitive()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="negative_amount_cd()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="invalid_create_string_with_no_spaces()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

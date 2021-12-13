@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.SavingsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:24" hostname="Nikhils-MBP.home" time="0.003">
+  <properties/>
+  <testcase name="initial_balance_of_zero()" classname="banking.SavingsTest" time="0.001"/>
+  <testcase name="account_has_apr()" classname="banking.SavingsTest" time="0.0"/>
+  <testcase name="account_is_savings()" classname="banking.SavingsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.WithdrawValidatorTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:24" hostname="Nikhils-MBP.home" time="0.022">
+  <properties/>
+  <testcase name="valid_withdraw_for_CD()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="min_withdraw_for_checking()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="max_withdraw_for_checking()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="max_withdraw_for_savings()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="min_withdraw_for_savings()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_zero_amount()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="min_withdraw_for_CD()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="command_not_withdraw()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_negative_amount()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="over_max_withdraw_for_CD()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_positive_amount()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_command()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="over_max_withdraw_for_savings()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="invalid_withdraw_char_in_amount()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="over_max_withdraw_for_checking()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="invalid_withdraw_command()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="valid_withdraw_for_checking()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="get_withdraw_id()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_for_savings()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

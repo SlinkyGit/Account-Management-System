@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.TransferHandlerTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:24" hostname="Nikhils-MBP.home" time="0.016">
+  <properties/>
+  <testcase name="valid_transfer_between_2_checking()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <testcase name="valid_transfer_of_zero_between_checking_and_savings()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <testcase name="transfer_twice_between_checking_and_savings()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <testcase name="transfer_between_checking_and_CD()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <testcase name="valid_transfer_between_2_savings()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <testcase name="transfer_between_checking_and_savings()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <testcase name="valid_transfer_of_zero_between_savings_and_checking()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <testcase name="return_transaction_history_for_savings_and_checking()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <testcase name="transfer_between_two_CDs()" classname="banking.TransferHandlerTest" time="0.0"/>
+  <testcase name="transfer_between_savings_and_checking()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <testcase name="transfer_between_two_checking_accounts_and_back_again()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <testcase name="transfer_between_two_savings_accounts_and_back_again()" classname="banking.TransferHandlerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

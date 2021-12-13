@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.DepositValidatorTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:24" hostname="Nikhils-MBP.home" time="0.027">
+  <properties/>
+  <testcase name="invalid_create_ID_is_not_number()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="valid_deposit_of_0_for_savings()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="over_max_deposit_for_savings()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="max_deposit_for_checking()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="max_deposit_for_savings()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="valid_deposit_of_0_for_checking()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="no_deposit_amount_present()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="is_empty_command()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="missing_command_checking()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="invalid_ID_length()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="valid_deposit_for_savings()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="misspelling_in_account_type()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="over_max_deposit_for_checking()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="missing_ID()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="typo_in_command()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="missing_command_CD()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="duplicate_id()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="missing_command_savings()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="command_not_deposit()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="negative_deposit_amount()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="valid_deposit_for_checking()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="cannot_deposit_into_cd()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="missing_deposit_command()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_string()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

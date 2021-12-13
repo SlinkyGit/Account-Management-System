@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.PassTimeHandlerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:52:24" hostname="Nikhils-MBP.home" time="0.012">
+  <properties/>
+  <testcase name="valid_remove_checking()" classname="banking.PassTimeHandlerTest" time="0.0"/>
+  <testcase name="valid_remove_savings()" classname="banking.PassTimeHandlerTest" time="0.0"/>
+  <testcase name="pass_a_month_for_cd()" classname="banking.PassTimeHandlerTest" time="0.003"/>
+  <testcase name="pass_3_months_for_cd()" classname="banking.PassTimeHandlerTest" time="0.001"/>
+  <testcase name="valid_inc_by_a_month()" classname="banking.PassTimeHandlerTest" time="0.0"/>
+  <testcase name="valid_withdraw_25()" classname="banking.PassTimeHandlerTest" time="0.001"/>
+  <testcase name="valid_pass_time_command_of_zero()" classname="banking.PassTimeHandlerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
